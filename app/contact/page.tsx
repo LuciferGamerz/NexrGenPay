@@ -8,7 +8,7 @@ const telegramUrl = "https://t.me/capjack666";
 const channels = [
   {
     name: "WhatsApp",
-    detail: "+91 84879 84489",
+    detail: "+91 9999999999",
     hint: "Opens WhatsApp in a new tab",
     href: whatsappUrl,
     icon: MessageCircle,
